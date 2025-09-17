@@ -35,7 +35,7 @@ const Home = () => {
 
   return (
     <div className="container">
-      <h1>Таблица пользователей</h1>
+      <h1>Таблица пользователей placeholder</h1>
       <table className="user-table">
         <thead>
           <tr>
